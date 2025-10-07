@@ -1,7 +1,7 @@
 {
 	"name": "pensela",
 	"version": "0.0.1",
-	"description": "The Swiss Army Knife of Screen Annotation Tools",
+	"description": "The Swisss Army Knife of Screen Annotation Tools",
 	"main": "index.js",
 	"scripts": {
 		"start": "electron .",
