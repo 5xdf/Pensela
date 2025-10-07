@@ -1,6 +1,6 @@
 {
 	"name": "pensela",
-	"version": "1.2.5",
+	"version": "0.0.1",
 	"description": "The Swiss Army Knife of Screen Annotation Tools",
 	"main": "index.js",
 	"scripts": {
@@ -11,8 +11,8 @@
 		"_private:build:macos": "electron-builder build -m --publish never --config ./electron-builder.json"
 	},
 	"author": {
-		"name": "Wali Waqar",
-		"email": "waliwaqars@gmail.com"
+		"name": "5xdf",
+		"email": "admin@nbur21.org"
 	},
 	"license": "ISC",
 	"devDependencies": {
@@ -27,6 +27,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/weiameili/Pensela"
+		"url": "https://github.com/5xdf/Pensela"
 	}
 }
