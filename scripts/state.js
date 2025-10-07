@@ -4,7 +4,7 @@ let boardState = {
 	col: "#b4deff",
 	strokeCol: "#b4deff",
 	mode: "mouse",
-	bg: "#00000000",
+	bg: "#00000033",
 	before: [],
 	after: [],
 	strokeWidth: 10,
@@ -29,3 +29,4 @@ ipcRenderer.on("strokeIncrease", () => {
 ipcRenderer.on("strokeDecrease", () => {
 	if (boardState.strokeWidth > 5) boardState.strokeWidth -= 5;
 });
+
